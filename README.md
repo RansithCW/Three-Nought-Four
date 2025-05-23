@@ -15,3 +15,10 @@ If no cards of the suit remain in a players hand, they may either cut the trick 
 
 At the end of play, the bidders win if they achieve their bid + 100 points, and the others win if they do not.
 
+## To Run:
+Just download the code, and run the python file.
+As of now, this is a text based game running in the terminal, but I am learning front end, and hope to add a GUI soon!
+Enjoy!!!
+
+(Additionally, the bots are playing mostly randomly, so if you know the game, you should be able to win most of the time, 
+Given, of course, that lady luck (-ahem- python's random library) smiles upon you)
